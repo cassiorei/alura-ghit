@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = cassiorei
+[remote "local"]
+	url = C:/Users/cassio/Documents/bootstrap-lan
+	fetch = +refs/heads/*:refs/remotes/local/*
